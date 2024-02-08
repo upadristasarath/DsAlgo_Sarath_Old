@@ -10,7 +10,7 @@ public class MyArray {
 	public MyArray() {
 		capacity = 1;
 		data = new Object[capacity];  
-		length = 0; 
+		length = 0;  
 	}
 	
 	public void push(Object value) {

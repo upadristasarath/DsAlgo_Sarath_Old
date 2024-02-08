@@ -1,7 +1,7 @@
 package data_structure.arrays;
 
 public class TwoSum {
-
+  private String name = "test";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		TwoSum.twoSum(new int[] {2, 5, 5, 11}, 10);

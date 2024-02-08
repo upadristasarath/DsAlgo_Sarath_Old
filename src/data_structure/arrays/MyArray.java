@@ -9,7 +9,7 @@ public class MyArray {
 	
 	public MyArray() {
 		capacity = 1;
-		data = new Object[capacity]; 
+		data = new Object[capacity];  
 		length = 0;
 	}
 	
